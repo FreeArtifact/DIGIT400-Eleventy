@@ -2,10 +2,6 @@
 title: Home
 layout: base.njk
 ---
-<div class="nav-bar">
-  <a href="index.html">Home</a>
-  <a href="issues-guide.html">Issues Guide</a>
-</div>
 
 # Search Engines
 ## What they're all about, and why they need to be better
