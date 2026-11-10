@@ -2,6 +2,7 @@
 title: Where to start
 order: 2
 ---
+
 A second section. Copy this file, rename it, and change the front matter to make another.
 
 ### Headings in a section start at three hashes
